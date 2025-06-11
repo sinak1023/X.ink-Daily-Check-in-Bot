@@ -1,0 +1,24 @@
+{
+  "name": "xink-daily-bot",
+  "version": "1.0.0",
+  "description": "Automated daily check-in bot for X.ink platform",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "x.ink",
+    "bot",
+    "automation",
+    "crypto",
+    "web3"
+  ],
+  "author": "sinak1023",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.0",
+    "ethers": "^6.0.0",
+    "https-proxy-agent": "^7.0.0"
+  }
+}
