@@ -17,8 +17,8 @@ An automated bot for X.ink platform that handles daily check-ins, manages multip
 ## Installation
 Clone the repository:
 ```bash
-git clone https://github.com/sinak1023/xink-daily-bot.git
-cd xink-daily-bot
+git clone https://github.com/sinak1023/X.ink-Daily-Check-in-Bot.git
+cd X.ink-Daily-Check-in-Bot
 ```
 
 Install dependencies:
